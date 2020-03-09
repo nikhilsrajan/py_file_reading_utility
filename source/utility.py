@@ -1,4 +1,4 @@
-from myglobals import DEBUG, debug_read1_file, debug_logs, NOT_UTF_8
+from .settings import DEBUG, debug_logs, debug_read1_file, NOT_UTF_8
 
 # -------------------------------
 # ----- character functions -----
